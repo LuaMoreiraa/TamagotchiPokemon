@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\views\\tamagotchiview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\views\\tamagotchiview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\services\\ipokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\services\\ipokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\services\\pokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\services\\pokeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\models\\pokemontamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\models\\pokemontamagotchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\controllers\\mascotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\controllers\\mascotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\controllers\\artecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\controllers\\artecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\se_alimentando.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\se_alimentando.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\pokebola.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\pokebola.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\normal.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\normal.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\morto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\morto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\medicar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\medicar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\dormindo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\dormindo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\brincando.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\brincando.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\banhar.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\banhar.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|c:\\users\\luana\\source\\repos\\tamagotchipokemon\\tamagotchipokemon\\artes\\mainlogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{902DFF08-4AFC-4C11-9150-1D738C975727}|TamagotchiPokemon\\TamagotchiPokemon.csproj|solutionrelative:tamagotchipokemon\\artes\\mainlogo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Services\\PokeApiService.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Services\\PokeApiService.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Services\\PokeApiService.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Services\\PokeApiService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAEwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:44:49.62Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MascoteController.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Controllers\\MascoteController.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Controllers\\MascoteController.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Controllers\\MascoteController.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Controllers\\MascoteController.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAkwAUBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:57:02.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TamagotchiView.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:41:22.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPokeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Services\\IPokeApiService.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Services\\IPokeApiService.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Services\\IPokeApiService.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Services\\IPokeApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:36:41.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArteController.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Controllers\\ArteController.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Controllers\\ArteController.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Controllers\\ArteController.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Controllers\\ArteController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAzwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T23:12:29.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Morto.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Morto.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Morto.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Morto.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Morto.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T23:32:57.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pokebola.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Pokebola.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Pokebola.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Pokebola.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Pokebola.txt",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-11T01:46:28.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Models\\Enums.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T02:38:53.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Controllers\\GameController.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Controllers\\GameController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswDIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T00:56:45.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Normal.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Normal.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Normal.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Normal.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Normal.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-11T03:06:01.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Models\\Pokemon.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:18:09.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Medicar.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Medicar.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Medicar.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Medicar.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Medicar.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-11T03:05:54.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokemonTamagotchi.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Models\\PokemonTamagotchi.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Models\\PokemonTamagotchi.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Models\\PokemonTamagotchi.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Models\\PokemonTamagotchi.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T01:18:10.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dormindo.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Dormindo.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Dormindo.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Dormindo.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Dormindo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T23:32:45.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Brincando.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Brincando.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Brincando.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Brincando.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Brincando.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T23:31:21.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Program.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Program.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:26:02.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Se_alimentando.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Se_alimentando.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Se_alimentando.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Se_alimentando.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Se_alimentando.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-11T03:11:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLogo.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\MainLogo.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\MainLogo.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\MainLogo.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\MainLogo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:13:12.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Banhar.txt",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Banhar.txt",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Artes\\Banhar.txt",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Artes\\Banhar.txt",
+              "RelativeToolTip": "TamagotchiPokemon\\Artes\\Banhar.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-11T03:32:31.859Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
