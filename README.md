@@ -1,9 +1,8 @@
-
-# Tamagotchi Pokémon - Projeto em C#
+# Tamagotchi Pokémon
 
 ## Descrição
 
-Esse projeto em C# foi criado com o objetivo de estudar C#, APIs e manipulação de dados, usando a ideia divertida de um Tamagotchi com Pokémons no console. Você pode adotar Pokémons, cuidar deles, ver artes ASCII e ainda puxar informações reais da PokéAPI para deixar tudo mais interessante.
+Esse projeto em C# foi criado com o objetivo de estudar C#, APIs e manipulação de dados, usando a ideia de um Tamagotchi com Pokémons no console. Você pode adotar Pokémons, cuidar deles, ver artes ASCII e ainda puxar informações reais da PokéAPI para deixar tudo mais interessante.
 
 ## Funcionalidades
 
