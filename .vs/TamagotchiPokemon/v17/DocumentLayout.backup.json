@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -114,6 +114,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T00:57:02.6Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TamagotchiView.cs",
+              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "RelativeDocumentMoniker": "TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "RelativeToolTip": "TamagotchiPokemon\\Views\\TamagotchiView.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAuwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T01:41:22.532Z",
               "EditorCaption": ""
             },
             {
@@ -218,19 +231,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-11T01:18:09.324Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TamagotchiView.cs",
-              "DocumentMoniker": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Views\\TamagotchiView.cs",
-              "RelativeDocumentMoniker": "TamagotchiPokemon\\Views\\TamagotchiView.cs",
-              "ToolTip": "C:\\Users\\Luana\\source\\repos\\TamagotchiPokemon\\TamagotchiPokemon\\Views\\TamagotchiView.cs",
-              "RelativeToolTip": "TamagotchiPokemon\\Views\\TamagotchiView.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAuwF4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T01:41:22.532Z",
               "EditorCaption": ""
             },
             {
